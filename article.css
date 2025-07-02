@@ -1,0 +1,24 @@
+.header{
+    border: 5px solid black;
+    left: 100px;
+    height:100px;
+    color:green;
+    background-color:black;
+}
+.body{
+    border:5px solid black;
+    width: 1340px;
+    height: 500px;
+    overflow: scroll;
+    background-color:white;
+    
+}
+p,li{
+    font-size: larger;
+}
+h1,h2{
+    color: green;
+}
+body{
+    background-color:green;
+}
